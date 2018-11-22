@@ -10,6 +10,10 @@ Automatically highlight the keywords and autocomplete keywords.
 
 you need to make sure that the file have been put in the extensions file.
 
+## license
+
+CC BY-NC-ND 4.0
+
 ## Release Notes
 
 Test release.
